@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Continuance of the High Court of Chancery vindicated, to be absolute necessary, (the abuses and corruptions being removed,) and the removal thereof, and the perfect reformation of the proceedings in that court, proposed in several bils weekly, or more often, intended to be published. By many citizens, and others of the Common-wealth, well-knowing of such abuses.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80381</idno>
+            <idno type="STC">Wing C5956</idno>
+            <idno type="STC">Thomason E809_7</idno>
+            <idno type="STC">ESTC R207561</idno>
+            <idno type="EEBO-CITATION">99866605</idno>
+            <idno type="PROQUEST">99866605</idno>
+            <idno type="VID">118882</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80381)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118882)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 123:E809[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Continuance of the High Court of Chancery vindicated, to be absolute necessary, (the abuses and corruptions being removed,) and the removal thereof, and the perfect reformation of the proceedings in that court, proposed in several bils weekly, or more often, intended to be published. By many citizens, and others of the Common-wealth, well-knowing of such abuses.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Lawrence Chapman in the Strand; neer the Savoy.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 26.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Court of Chancery --  Early works to 1800.</term>
+               <term>Courts --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118882:1" rendition="simple:additions"/>
+            <p>The continuance OF THE HIGH COVRT OF CHANCERY vindicated, to be abſolute neceſ<g ref="char:EOLhyphen"/>ſary, (the abuſes and corruptions being removed,) and the removal there<g ref="char:EOLhyphen"/>of, and the perfect Reformation of the proceedings in that Court, Propo<g ref="char:EOLhyphen"/>ſed in ſeveral Bils weekly, or more often, intended to be Pub<g ref="char:EOLhyphen"/>liſhed.</p>
+            <p>By many Citizens, and others of the Common-wealth, well knowing of ſuch abuſes.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Lawrence Chapman</hi> in the Strand, neer the <hi>Savoy.</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="bill">
+            <pb facs="tcp:118882:2"/>
+            <pb n="1" facs="tcp:118882:2"/>
+            <head>Bill: I. For remedy againſt untrue, and unjuſt Re<g ref="char:EOLhyphen"/>ports by Maſters of the Chancery, and other Referrees.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas Maſters of the Chancery, and other Refer<g ref="char:EOLunhyphen"/>rees of late years have been much complained of for taking Rewards, and thereby many times car<g ref="char:EOLhyphen"/>rying buſineſſes the wrong wayes, and for extra<g ref="char:EOLhyphen"/>ordinary and unwarranted Fees, or ſo called, taken by them, which hath occaſioned much trouble, perplexity, charge, and de<g ref="char:EOLhyphen"/>laies in divers Suits for many years.</p>
+            <div type="body_of_bill">
+               <head>For remedy whereof it is propoſed to be deſired, that it may</head>
+               <p>BE Enacted, that if any Maſter, or Referree ſhall make any Re<g ref="char:EOLhyphen"/>port, or Certificate contrary to the Books, Writings, or Notes ſhewed him, which by his Order he ſhall have power to view, or peruſe, or Copies of Bils, Anſwers, or Depoſitions, or o<g ref="char:EOLhyphen"/>ther things taken, in, or concerning the cauſe to him referred; Or that if ſuch Maſter or Referree ſhall not report ſo much for the benefit of the party, upon whoſe Motion any matter ſhall be referred to him; Or for the other Party, Plaintiff, or Defendant in his Order of Reference, as the Counſel learned in the Law, Attorney, or Solicitor of either party ſhall ſhew, &amp; make appear unto him, the Matter ſo to be reported, to be neceſſary to be re<g ref="char:EOLhyphen"/>ported or certified, then every ſuch Maſter or Referree ſhall for<g ref="char:EOLhyphen"/>feit and pay unto the party grieved, or to be grieved thereby 100 <hi>l:</hi> and double dammages, with coſts of Sute to be recovered by Action of Debt, <hi>&amp;c.</hi>
+               </p>
+               <pb n="2" facs="tcp:118882:3"/>
+               <p>Provided, that (before the commenſing of any ſuch Action, or <hi>&amp;c.</hi>) the party or parties finding him, her, or them ſelf, or ſelves grieved by ſuch Report or Certificate, ſhall (within one moneth next after the fileing, or delivering the ſame into the Court where ſuch Order of Referrence ſhall be made; Or the Office of ſuch Court proper for receiving of ſuch Reports or Certificates) give notice unto ſuch Maſter or Referree, or Referrees, and re<g ref="char:EOLhyphen"/>quire him or them to alter, amend, or procure to be altered, or amended ſuch Report or Certificate. And that if ſuch Maſter, or Referre, or Referrees do or ſhal alter or amend; or cauſe to be altered or amended ſuch Report or Certificate; or notifie or declare unto the party, or parties, by, or for whom ſuch notice or Declaration be, or ſhall be ſo given unto ſuch Maſter, or Referree, that he will move the Court (where ſuch Order was made, or entred,) &amp; deliver, or cauſe to be delivered to him, her, or them a Copy in writing of ſuch Notification or Declaration, and the matter of ſuch thing to be moved within dayes then next following,) and receive and take ſuch matter in writing as ſuch party ſo ſuppoſing to be grieved, do or ſhall (within dayes next from thence) alledg to impeach, damn, or overthrow ſuch Report or Certificate, and cauſe both the ſame matter ſo to be alledged on both fides to be delivered into the Court, to which ſuch Report, or Certificate ſhall be, or to be made [wher<g ref="char:EOLhyphen"/>in there be, or ſhall be two or more Judges, or Juſtices of the one Bench, or the other ſitting, and there have equall power with ſuch others, who do or ſhall fit there to give their Votes] to be read, then if ſuch Report or Certificate be, or ſhall be by ſuch Court, (ſo ſupplied, or aſſiſted, or ſo to be) approved of, <hi>&amp;c.</hi> the ſame to ſtand firm and ſtable, and not to be reverſed or diſſolved (but by the Supream Power) and ſuch Maſter, or Referree, or Referrees not to be queſtioned for doing the ſame, but juſtified therein, and have their reaſonable coſts to be ſuſtained in that behalf of the party, or parties unjuſtly vexing them, upon ſuch occaſion.</p>
+            </div>
+         </div>
+         <div n="2" type="bill">
+            <pb n="3" facs="tcp:118882:3"/>
+            <head>
+               <hi>Bill II.</hi> For avoiding of many unneceſſary Hearings in <hi>Chancery,</hi> and mitti<g ref="char:EOLhyphen"/>gation of the Charges in divers others: And ſpeedy tryall, and finding out the truth of every Depoſition, of which any doubt ſhall ariſe.</head>
+            <p>VVHereas in and after divers Hearings in the High Court of Chancery, and other Courts called <hi>Engliſh</hi> Courts, or Courts of Equity upon Debate of Counſel learned on both ſides, there hath hapned in divers Cauſes in theſe Courts ſuch doubt of the truth, in many of thoſe Cauſes; that ſuch Courts have been ſo cautious and tender in, and concerning the ſame, that thoſe Courta have not thought meet or convenient to make any final Order or Decree in ſuch Courts in ſuch cauſes; but have Ordered an Action to be con<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lved and drawn, and a Plea thereunto to be pleaded, and an Iſſue to be taken thereupon of the matter of the doubt of ſuch truth, and then accordingly the Jury, or Jurors have found and given a Verdict thereupon; And then ſuch Courts have made final Orders or Decrees for the ſame, which courſe hath been accounted, applauded, and com<g ref="char:EOLhyphen"/>mended to be very good and beneficial for the Publique, &amp; few or none have found fault, or themſelves grieved therewith: but only have complained of the exceſſive charge there.</p>
+            <p>For eſtabliſhing of the Benefits before mentioned, and avoid<g ref="char:EOLhyphen"/>ing of the exceſs aforeſaid.</p>
+            <div type="body_of_bill">
+               <head>It is propoſed to be deſtred that it may</head>
+               <p n="1">1 BE Enacted that if either Complainant, or Complainants D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fendant, or Defendante, his or their Commiſſioners do, or ſhall miſdoubt the truth of any matter, thing, or things being matt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r of Fact or D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed done to be tryed by J<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rors, and not by Record) depoſed by any ſuch Witneſs or Witneſſes, and refuſe to agree the ſame for Truth, then an Action or Actions of, or up<g ref="char:EOLhyphen"/>on the Caſe, Treſpaſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, or Debt, may or ſhall be drawn, wherein ſuch ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter, thing or things may, or ſhall be alledged to be true by ſuch either Complainant, or Complainants, Defendant, or Defendants; (who do or will endeavour to maintain the ſame to be true.) And that the other of ſuch Complainant, or Complainants, Defendant or Defendants, (who do or wil endea<g ref="char:EOLhyphen"/>vour to maintain the ſame matter, thing, or things not to be true) ſhall anſwer, or plead in barr thereof, that ſuch matter,
+<pb n="4" facs="tcp:118882:4"/> thing, or things is not, or was, or are not, or were not true accor<g ref="char:EOLhyphen"/>ding as the ſame is, or was, are, or were alledged: And that Iſſue or Iſſues may, or ſhall be thereupon joyned, and one ſuch Action ſhall be for ſuch matter, thing, or things which is, or was, are, or were, or ſhall be done, or acted in the ſame County (where ſuch matter, thing or things is, or was, are, or were, or ſhall be acted or done) whether or not ſuch matter, thing, or things is, or was, are, or were, as ſhall be l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>cal or tranſitory; unleſs ſuch Complainant, or Complainants, Defendant, or Defendants ſhall alledg, and make it appear by Oath that the other, or others of them be, or ſhall be powerful in ſuch County, by being feated in having over-much command<g ref="char:EOLhyphen"/>ing power of him, or them there; or by over-much affection by them gained, in lending money, or ſuch like favours, or power gained by him, or them there, that then ſuch Action, or Actions ſhall be laid in the County next, or neereſt to the place where ſuch matter, thing or things ſhall be ſo acted, or done.</p>
+               <p n="2">2. And that ſuch Action or Actions ſhall be brought within dayes next after publication in the Cauſe or Suit to be ſo in queſtion, or proceeding or Debate by either ſuch Complai<g ref="char:EOLhyphen"/>nant, or Complainants, Defendant, or Defendants, and within that time fairly written (as is mentioned in another Bill con<g ref="char:EOLhyphen"/>cerning many other matters,) and ſent into one of ſuch of the Superior Courts at <hi>Weſtminſter;</hi> which uſually, or moſt common<g ref="char:EOLhyphen"/>ly have holden Plea, and had conuſans of ſuch Action, and Iſſue; or power of trying, or ſending the ſame to be tryed at any Aſſi<g ref="char:EOLhyphen"/>zes, or places, of, or for tryal, whereſoever ſuch ſuperior Courts be, or ſhall be nereafter holden or kept: And that the other of him, her, or them ſhall ſo plead, or anſwer to the ſame (within one week, or dayes next after a Copy, or copies of ſuch Declaration, or Declarations ſhall be delivered to him, her, or them, his, her, or their Clerk, Attorney or Agent authorized, or to be authorized to receive the ſame: Or left for him, her or them in the Court, or Office aforeſaid and deliver unto ſuch Complainant, or Complainants, Defendant, or Defendants his, her, or their Clerk, Attorney, or <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in that behalf a Copy, or Copies of ſuch Plea, or Pleas, Anſwer, or Anſwers, with the Iſſue, or Iſſues thereupon joyned, or to be joyned as before is men<g ref="char:EOLhyphen"/>tioned; or leave the ſame for him or them in the Court or Of<g ref="char:EOLhyphen"/>fice
+<pb n="5" facs="tcp:118882:4"/> (where ſuch Declaration is, or ſhall be ſo delivered to be <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>led, or kept) within convenient time next after ſuch delivery of the copy of ſuch Declaration, or Declarations, or notice given to ſuch Complainant, or Complainants, Defendant, or Defendants, (who ſo ſhould plead or anſwer) or otherwiſe next after notice thereof in writing left, at his, her, or their uſual dwelling houſe, or houſes, or place, or places of abode, at the time of ſuch delive<g ref="char:EOLhyphen"/>ry of ſuch Declaration, or Declarations ſo to be filed and kept into ſuch Court, or Office (that is to ſay) by the ſpace of dayes for every 20 miles diſtance off, or from the place where ſuch Declaration, or Declarations be, or ſhall be delivered, or ſuch notice given from the Court, or Office (into which ſuch De<g ref="char:EOLhyphen"/>claration, or Declarations be, or ſhall be ſo delivered, &amp; notice be given to the Clerk, or Attorney of ſuch complainant or Com<g ref="char:EOLhyphen"/>plainants, Defendant or Defendants of ſuch Note or writing left, or to be left at ſuch Houſe, or place of abode within the ſaid time: And that ſuch Complainant, or Complainants, De<g ref="char:EOLhyphen"/>fendant, or Defendants (who ſhall ſo plead or anſwer) ſhal with<g ref="char:EOLhyphen"/>in ſuch time ſo limited, or to be limited to him, her, or them to do the ſame) leliver into ſuch Court, or Office, ſuch plea, or pleas, Anſwer, or Anſwers with ſuch Iſſue, or Iſſues thereupon joyned, or to be joyned as aforeſaid, fairly written in manner and form before-mentioned.</p>
+               <p n="3">3. And that ſuch Complainant or Complainants, Defendant or Defendants (who ſhal bring, or cauſe to be brought ſuch Acti<g ref="char:EOLhyphen"/>on, or ſo declare) ſhall at the then next Aſſiz<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, or place or places for tryals of Iſſues upon Actions to be holden within dayes next after a copy of ſuch plea, or pleas, and Iſſues ſo delivered, or to be delivered as aforeſaid; or the ſame plea, or pleas, and Iſſues ſo delivered, or to be delivered (in manner and form aforeſaid to be fi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed &amp; kept) cauſe or procure ſuch Iſſue or Iſſues to be try<g ref="char:EOLhyphen"/>ed; &amp; that every ſuch Declaration, Anſwer, plea, &amp; Iſſue, &amp; pro<g ref="char:EOLhyphen"/>ceedings between ſuch Declaration and Iſſue ſo written, &amp; deli<g ref="char:EOLhyphen"/>vered in as aforeſaid (for the eaſe of the charges and trouble, and more ready and ſpeedy diſpatch thereof) may and ſhall be taken off, and from the file in ſuch Court, and delivered out, and ſent to the Juſtice, or Juſtices of the Aſſizes, or other Juſtice or Juſtices (who ſhall be authorized or impowred to try
+<pb n="6" facs="tcp:118882:5"/> ſuch Iſſues) to ſuch place or places of Aſſize, with an expreſſion or making mention in a peece of Parchment by it ſelf ſo writ<g ref="char:EOLhyphen"/>ten, to be affixed to the ſame D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>claration, and Plea, or anſwer, and iſſue of the Term, and year, when and of what ſuch declara<g ref="char:EOLhyphen"/>tion is was, or ſhal be filed: or ſo delivered in to be kept, &amp; when ſuch Plea or anſwer with ſuch Iſſue joyned i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, was, or ſhal be put in, or delivered into ſuch Court, or Office, and to what time, place, or places the Jury, Jurors, or Jurats to try ſuch Iſſue, or Iſ<g ref="char:EOLhyphen"/>ſues is, are, or ſhall be reſpiced, ſtayed, adjourned, or delayed to the effect in ſubſtance as hath been uſually done, or written at the beginning and ending of Records uſually taken, and iſſued Out of ſuch Courts to be at Aſſizes, or before Juſtices there (chan<g ref="char:EOLhyphen"/>ging things neceſſary to be changed.) And that if any of ſuch Declarations, Iſſues, and proceedings ſhall happen to be loſt, then each, or any ſuch Complainant, or Complainants, Plaintiff, or Plaintiffs, Defendant, or Defendants, his, her, or their Counſel, Clerk, or Attorney, may have a copy or copies of the ſame, or a<g ref="char:EOLhyphen"/>ny part thereof, written again as they were at the firſt, and put or delivered into the ſame Court, &amp; ſhal be ſatisfied for ſo doing by him, or them, by whom the ſame were, or ſhal be ſo loſt.</p>
+               <p n="4">4. And that all and every of ſuch notice, &amp; notices ſo to be given, be, and ſhall be invalid unleſs the ſame ſhall be made ap<g ref="char:EOLhyphen"/>pear to be done as aforeſaid by Oath of ſuch credible perſon as is mentioned in the Bill herein before recited.</p>
+               <p n="5">5. And that if either of ſuch Complainant or Complainants, De<g ref="char:EOLhyphen"/>fendant, or Defendants (who do or ſhal endeavour to maintain ſuch matter, thing or things for truth, or to be true) do or ſhall ſail, or make default in any thing by or for him, her, or them, his her, or their Coun: Clerk, Attorney, Solicitor, or Agent, ſuch mat<g ref="char:EOLhyphen"/>ter, thing, &amp; things ſhal be granted, deemed, judged, &amp; admitted not to be true to all intents and purpoſes, but taken for untruth.</p>
+               <p n="6">6. And that if the other of ſuch Complainant, or Complai<g ref="char:EOLhyphen"/>nants, Defendant, or Defendants (who do, or ſhall endeavour to maintain any ſuch matter, thing, or things for truth, or not to be true) do, or ſhall make default in any thing, by, or for him, her, or them, his, he<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, or their Counſel, Clerk, Attorney, Solicitor, or A<g ref="char:EOLhyphen"/>gent, then ſuch matter, thing, or things ſhall be conſtrued, deemed, taken, and adjudged for untruth, and not to be true.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publisher_to_the_reader">
+            <p>Other Bils are intended in convenient time to be publiſhed.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
